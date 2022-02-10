@@ -7,3 +7,4 @@ area,Area,"a two-dimensional feature, either a plane, or some other surface"
 volume,Volume,a three-dimensional feature
 unknown,unknown,observing geometry unknown
 inapplicable,inapplicable,observing geometry inapplicable
+test,test,test
